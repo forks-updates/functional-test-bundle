@@ -1,5 +1,5 @@
 {
-    "name": "liip/functional-test-bundle",
+    "name": "forks-updates/functional-test-bundle",
     "description": "This bundles provides additional functional test-cases for Symfony applications",
     "keywords": ["symfony", "testing"],
     "type": "symfony-bundle",
